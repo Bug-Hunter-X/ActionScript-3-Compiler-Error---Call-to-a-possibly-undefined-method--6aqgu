@@ -1,0 +1,1 @@
+This example demonstrates an uncommon ActionScript 3 compiler error. The issue arises when a function is called before its definition within the same file.  The ActionScript compiler performs a forward declaration check. A workaround is provided in the solution file to address this error.
